@@ -1,10 +1,10 @@
 {
-  "name": "ui-select",
+  "name": "@nsoft/ui-select",
   "main": "dist/select.js",
-  "author": "http://github.com/angular-ui/ui-select/graphs/contributors",
-  "homepage": "http://github.com/angular-ui/ui-select",
+  "author": "https://github.com/seven-cd/ui-select/graphs/contributors",
+  "homepage": "https://github.com/seven-cd/ui-select/ui-select",
   "repository": {
-    "url": "git://github.com/angular-ui/ui-select.git"
+    "url": "git://github.com/seven-cd/ui-select.git"
   },
   "version": "0.9.9",
   "devDependencies": {
